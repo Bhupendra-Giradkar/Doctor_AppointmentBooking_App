@@ -2,7 +2,7 @@
 A comprehensive Doctor Appointment Booking app built using React.js, Tailwind CSS, and Vite. The app allows users to view doctors, book appointments, manage profiles, and contact support.
 # Check live site
 
-[Visit Now] 🚀(https://doctorappointmentbook.netlify.app/)
+[Visit Now](https://doctorappointmentbook.netlify.app/) 🚀
 
 ## Features
 - Profile Page: Manage personal details and view appointment history.
